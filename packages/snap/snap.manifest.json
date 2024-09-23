@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This App redirect user to the official website to purchase a .Web3 domain",
   "proposedName": "web3names",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/3nsai/web3names-snap"
   },
   "source": {
-    "shasum": "ifIflkHzuP+LBdcC1MVHbxdIQL8yoftRiFSSpPXAz6E=",
+    "shasum": "8HD4U39FBCjLFOMmQjEeCpLbbD/dq6eYAgyHrKFYrNk=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
