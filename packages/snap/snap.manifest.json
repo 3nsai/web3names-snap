@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "description": "This App redirect user to the official website to purchase a .Web3 domain",
+  "proposedName": "web3names",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3nsai/web3names-snap"
+  },
+  "source": {
+    "shasum": "N9L298XySFUVV6tL5W57deHuqLLid6qDWlUwiVGDjHo=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "@3nsai/web3names-snap",
+        "iconPath": "images/3ns.svg",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:page-home": {}
+  },
+  "manifestVersion": "0.1"
+}
