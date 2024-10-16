@@ -29,6 +29,10 @@ await window.ethereum.request({
 });
 ```
 
+## Changing the Redirect URL
+
+To change the redirect URL, edit the `/packages/snap/src/components/Search.tsx` file and update the URL as needed.
+
 ## Cloning
 
 This repository contains GitHub Actions that you may find useful; see `.github/workflows` and [Releasing & Publishing](https://github.com/3nsai/web3names-snap/edit/main/README.md#releasing--publishing) below for more information.
